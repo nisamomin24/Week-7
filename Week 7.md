@@ -12,7 +12,9 @@ The Author from Spring at el. suggested Skate holder-specific vulnerability cate
 
 In conclusion, CVSS needs a revamp or new system needs to be put in place in order to recognise to eliminate the deficiencies in the existing vulnerability management process.
  
+
 References:
+
 Miguel, H. (2022). Are Vulnerability Scores Misleading You? Understanding CVSS Score. Available from: https://sysdig.com/blog/vulnerability-score-cvss-meaning/ [Accessed 22 April 2023].
 Spring at el. (2021). Time To Change the CVSS, IEEE Security and Privacy, 19(2), pp. 74-78. DOI: 10.1109/MSEC.2020.3044475.
 Charlie, O. (2023). CVSS System Criticised For failure To Address Real-World Impact. Available from: https://portswigger.net/daily-swig/cvss-system-criticized-for-failure-to-address-real-world-impact [Accessed 22 April 2023].
