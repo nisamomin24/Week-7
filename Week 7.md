@@ -16,6 +16,9 @@ In conclusion, CVSS needs a revamp or new system needs to be put in place in ord
 References:
 
 Miguel, H. (2022). Are Vulnerability Scores Misleading You? Understanding CVSS Score. Available from: https://sysdig.com/blog/vulnerability-score-cvss-meaning/ [Accessed 22 April 2023].
+
 Spring at el. (2021). Time To Change the CVSS, IEEE Security and Privacy, 19(2), pp. 74-78. DOI: 10.1109/MSEC.2020.3044475.
+
 Charlie, O. (2023). CVSS System Criticised For failure To Address Real-World Impact. Available from: https://portswigger.net/daily-swig/cvss-system-criticized-for-failure-to-address-real-world-impact [Accessed 22 April 2023].
+
 Payal, M. (2022). Effective Vulnerability Management with Stake Holder-Specific Vulnerability Categorization (SSVC) and Qualys TruRisk. Available from: https://blog.qualys.com/product-tech/2022/11/30/effective-vulnerability-management-with-ssvc-and-qualys-trurisk [Accessed 22 April 2023].
